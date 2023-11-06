@@ -1,0 +1,6 @@
+# Merrilee S
+# movie rating from user
+
+rating = eval(input("Please give a rating of your favorite movie?"))
+mine = 3
+print (mine - rating)
